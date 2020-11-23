@@ -1,6 +1,5 @@
 package com.cogmento.testautoamtion.web.pages;
 
-import java.sql.Driver;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

@@ -6,7 +6,6 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import com.cogmento.testautomation.web.util.TestBase;
-import com.sun.xml.internal.fastinfoset.sax.Properties;
 
 public class LoginPage extends TestBase{
 
